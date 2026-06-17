@@ -1,0 +1,40 @@
+Senior AI Engineer (Founding Team)
+Noida / Pune, India
+
+Experience: 5-9 years. Ideal 6-8 years with 4-5 years in applied ML at product companies.
+
+Location: Noida or Pune preferred. Delhi NCR, Hyderabad, Mumbai also welcome.
+Open to relocation from Tier-1 Indian cities.
+Notice period: sub-30-day strongly preferred.
+
+Core technical requirements:
+- Production experience with embeddings-based retrieval systems
+- sentence-transformers, embeddings, dense retrieval, embedding models
+- Vector databases and hybrid search infrastructure in production:
+  Pinecone, Weaviate, Qdrant, Milvus, Elasticsearch, OpenSearch, FAISS
+- BM25, hybrid search, sparse retrieval, dense retrieval, reranking
+- Shipped ranking, search, or recommendation system to real users at scale
+- Semantic search, information retrieval, neural search experience
+- RAG, retrieval augmented generation pipeline experience
+- Strong Python engineering, production code quality
+- Evaluation frameworks: NDCG, MRR, MAP, A/B testing, offline evaluation
+
+Strong bonus skills:
+- LLM fine-tuning, large language model fine-tuning
+- LoRA, QLoRA, PEFT fine-tuning methods
+- NLP, transformers, BERT
+- Learning-to-rank models
+- Distributed systems, large-scale inference
+
+Ideal profile:
+6-8 years total. 4-5 years applied ML at product companies.
+Has shipped end-to-end ranking, recommendation, or search system to real users.
+Strong opinions on retrieval strategy, evaluation methodology, LLM integration.
+Product-engineering mindset: ships working systems, learns from real users.
+Active job seeker, responsive to outreach, available within 30 days preferred.
+
+Hard disqualifiers:
+- Pure academic research background, no production deployment
+- AI experience limited to recent framework wrapper projects
+- Not writing production code for 18 months or more
+- Primary expertise in computer vision or speech, no information retrieval background
