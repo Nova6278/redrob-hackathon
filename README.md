@@ -28,10 +28,13 @@ To test on the sample file:
 python run_pipeline.py --candidates sample_candidates.json --jd job_description.txt --sample-mode
 ```
 
+All flags except --candidates have sensible defaults (--jd defaults to job_description.txt, --out defaults to team_apex.csv), so the pipeline runs end-to-end even with minimal arguments.
+
 The pipeline works with any job description. Point `--jd` at any plain text file and it will parse the experience range, locations and relevant skills automatically — nothing about the role is hardcoded.
 
 ## What's in this repo
 
+`README.md` — this file  
 `run_pipeline.py` — the full pipeline, single file, no hidden steps  
 `job_description.txt` — the JD we ranked against  
 `validate_submission.py` — format checker from the hackathon bundle  
