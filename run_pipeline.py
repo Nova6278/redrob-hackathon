@@ -838,7 +838,7 @@ def main():
     parser = argparse.ArgumentParser(description="Team Apex — Candidate Ranking Pipeline")
     parser.add_argument("--candidates",    default="sample_candidates.json")
     parser.add_argument("--jd",           default="job_description.txt")
-    parser.add_argument("--out",          default="team_apex.csv")
+    parser.add_argument("--out",          default="team_lonely_comet.csv")
     parser.add_argument("--top-n-stage2", type=int, default=150)
     parser.add_argument("--quiet",        action="store_true")
     parser.add_argument("--sample-mode",  action="store_true")

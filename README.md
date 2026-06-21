@@ -20,7 +20,7 @@ The third pass writes the output. Top 100 by composite score, with a reasoning s
 
 ```bash
 pip install sentence-transformers scikit-learn numpy scipy
-python run_pipeline.py --candidates candidates.jsonl --jd job_description.txt --out team_apex.csv
+python run_pipeline.py --candidates candidates.jsonl --jd job_description.txt --out team_lonely_comet.csv
 ```
 
 To test on the sample file:
@@ -39,4 +39,4 @@ The pipeline works with any job description. Point `--jd` at any plain text file
 `job_description.txt` — the JD we ranked against  
 `validate_submission.py` — format checker from the hackathon bundle  
 `requirements.txt` — dependencies  
-`team_apex.csv` — my final submission
+`team_lonely_comet.csv` — my final submission
